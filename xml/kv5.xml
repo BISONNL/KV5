@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmi8:DS_TM_PUSH xmlns:tmi8="http://bison.connekt.nl/tmi8/kv5/msg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bison.connekt.nl/tmi8/kv5/msg kv5-msg.xsd">
+	<tmi8:SubscriberID>ABC1234</tmi8:SubscriberID>
+	<tmi8:Version>8.1.0.0</tmi8:Version>
+	<tmi8:DossierName>KV5allocinfo</tmi8:DossierName>
+	<tmi8:Timestamp>2013-02-12T12:49:31</tmi8:Timestamp>
+	<tmi8:KV5allocInfo>
+		<tmi8:passage>
+			<tmi8:dataownercode>ARR</tmi8:dataownercode>
+			<tmi8:operationdate>2013-02-12</tmi8:operationdate>
+			<tmi8:lineplanningnumber>N198</tmi8:lineplanningnumber>
+			<tmi8:journeynumber>1021</tmi8:journeynumber>
+			<tmi8:reinforcementnumber>0</tmi8:reinforcementnumber>
+			<tmi8:userstopcode>57330090</tmi8:userstopcode>
+		</tmi8:passage>
+		<tmi8:allocation>
+			<tmi8:allocationtime>2013-02-12T12:49:28</tmi8:allocationtime>
+			<tmi8:sidecode>G</tmi8:sidecode>
+		</tmi8:allocation>
+	</tmi8:KV5allocInfo>
+	<tmi8:KV5allocInfo>
+		<tmi8:passage>
+			<tmi8:dataownercode>CXX</tmi8:dataownercode>
+			<tmi8:operationdate>2013-02-12</tmi8:operationdate>
+			<tmi8:lineplanningnumber>61s</tmi8:lineplanningnumber>
+			<tmi8:journeynumber>5555</tmi8:journeynumber>
+			<tmi8:reinforcementnumber>1</tmi8:reinforcementnumber>
+			<tmi8:userstopcode>57330088</tmi8:userstopcode>
+		</tmi8:passage>
+		<tmi8:allocation>
+			<tmi8:allocationtime>2013-02-12T12:49:29</tmi8:allocationtime>
+			<tmi8:sidecode>Perron B</tmi8:sidecode>
+			<tmi8:quayid>CBSGM0014-12345</tmi8:quayid>
+		</tmi8:allocation>
+	</tmi8:KV5allocInfo>
+</tmi8:DS_TM_PUSH>
