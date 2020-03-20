@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmi8:DS_TM_PUSH xmlns:tmi8="http://bison.connekt.nl/tmi8/kv5/msg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bison.connekt.nl/tmi8/kv5/msg kv5-msg.xsd">
 	<tmi8:SubscriberID>ABC1234</tmi8:SubscriberID>
-	<tmi8:Version>8.1.0.0</tmi8:Version>
+	<tmi8:Version>8.1.1</tmi8:Version>
 	<tmi8:DossierName>KV5allocinfo</tmi8:DossierName>
 	<tmi8:Timestamp>2013-02-12T12:49:31</tmi8:Timestamp>
 	<tmi8:KV5allocInfo>
